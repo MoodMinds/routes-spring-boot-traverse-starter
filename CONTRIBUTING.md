@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Thank you for your interest in contributing to Routes Spring Boot Traverse Starter!
+Thank you for your interest in contributing to **Routes Spring Boot Traverse Starter**!
 
 **Project Status: Experimental and Under Development**
 
